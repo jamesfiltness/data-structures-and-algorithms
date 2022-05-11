@@ -16,6 +16,5 @@ function binarySearch(list, item) {
   return null;
 }
 
-// should take a max of 4 guesses
 const list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16];
 const result = binarySearch(list, 3);
